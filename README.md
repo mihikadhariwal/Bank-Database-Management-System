@@ -5,7 +5,9 @@ The Bank Database Management System (BDMS) is a comprehensive software solution 
 **Tools and Languages:**
 
 Backend- Java Servlets and JSP
+
 Frontend- HTML, CSS, JavaScript
+
 Database: MySQL
 
 
